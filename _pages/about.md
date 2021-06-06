@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) @ [University of Virginia](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. I have specifically been working on 
+Hello! I am a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) @ [University of Virginia](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics.
 
 ----
 

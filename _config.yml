@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Ahad"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "PhD student at University of Virginia"
   location         : "Charlottesville, VA"
   employer         :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

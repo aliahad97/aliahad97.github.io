@@ -13,6 +13,6 @@ Hello! I am a Ph.D. student in the [Department of Computer Science](https://engi
 ----
 
 # Updates:
-- \[05/20/2021]: Paper acceptance in **FSE'21** - [*Swarmbug: Debugging Configuration Bugs in Swarm Robotics*]()
-- \[03/23/2021]: Paper acceptance in **CCS'21** - [*Spinner: Automated Dynamic Command Subsystem Perturbation*]() 
-- \[08/24/2020]: Started my PH.D. at **UVA**
+- \[05/20/2021]: Paper acceptance in **FSE'21** - [*Swarmbug: Debugging Configuration Bugs in Swarm Robotics*](https://aliahad97.github.io/publications/)
+- \[03/23/2021]: Paper acceptance in **CCS'21** - [*Spinner: Automated Dynamic Command Subsystem Perturbation*](https://aliahad97.github.io/publications/) 
+- \[08/24/2020]: Started Ph.D. at **UVA**

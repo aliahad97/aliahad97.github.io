@@ -11,19 +11,23 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #fff !important;
+  /* color: #fff !important; */
+  color: var(--main-text-color);
   font-family: $sans-serif;
   font-size: $type-size-6;
-  font-weight: bold;
+  /* font-weight: bold; */
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  /* background-color: $primary-color; */
+  background-color: var(--main-background-color);
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: var(--main-background-color); /* mix(white, #000, 20%); */
+    color: $masthead-link-color-hover;
+    border-color: $masthead-link-color-hover;
   }
 
   .icon {
@@ -48,20 +52,24 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    // color: $gray !important;
+    color: var(--main-text-color);
+    border: 0px solid $light-gray !important; /* override*/
+    // background-color: #fff;
+    background-color: var(--main-background-color);
 
     &:hover {
-      color: #fff !important;
-      border-color: $gray;
+      background-color: var(--main-background-color);
+      // color: #fff !important;
+      color: $masthead-link-color-hover;
+      border-color: $masthead-link-color-hover;
     }
   }
 
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: 0px solid #fff !important; /* override*/
     background-color: transparent;
   }
 

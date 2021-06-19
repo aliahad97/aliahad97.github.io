@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ali Ahad"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student at University of Virginia"
+  bio              : "Ph.D. student at University of Virginia (UVA)"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : 
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            :  aa5rn /at/ virginia.edu 
+  email            :  aa5rn@virginia.edu 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "aliahad97"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3793-9180"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

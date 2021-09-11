@@ -13,6 +13,7 @@ Hello! I am Ali Ahad, a Ph.D. student in the [Department of Computer Science](ht
 ----
 
 # Updates:
+- \[09/11/2021]: Paper acceptance in **NDSS'22** - [*Forensic Analysis of Configuration-based Attacks*](https://aliahad97.github.io/publications/)
 - \[05/20/2021]: Paper acceptance in **FSE'21** - [*Swarmbug: Debugging Configuration Bugs in Swarm Robotics*](https://aliahad97.github.io/publications/)
 - \[03/23/2021]: Paper acceptance in **CCS'21** - [*Spinner: Automated Dynamic Command Subsystem Perturbation*](https://aliahad97.github.io/publications/) 
 - \[08/24/2020]: Started Ph.D. at **UVA**

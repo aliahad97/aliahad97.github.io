@@ -10,10 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+1. *"Forensic Analysis of Configuration-based Attacks"* [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Muhammad Adil Inam, Wajih Ul Hassan, <u>Ali Ahad</u>, Adam Bates, Rashid Tahir, Tianyin Xu, and Fareed Zaffar, *In Proc. of the 29th Network and Distributed System Security Symposium (**NDSS '22**)*
 
-- **Swarmbug: Debugging Configuration Bugs in Swarm Robotics** [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, Ali Ahad, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon, *In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE '21)*
+2. *"Swarmbug: Debugging Configuration Bugs in Swarm Robotics"* [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, <u>Ali Ahad</u>, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon, *In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (**FSE '21**)*
 
-- **Spinner: Automated Dynamic Command Subsystem Perturbation** [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Meng Wang, Chijung Jung, Ali Ahad, and Yonghwi Kwon, *In Proc. of 28th ACM Conference on Computer and Communications Security (CCS '21)*
+3. *"Spinner: Automated Dynamic Command Subsystem Perturbation"* [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Meng Wang, Chijung Jung, <u>Ali Ahad</u>, and Yonghwi Kwon, *In Proc. of 28th ACM Conference on Computer and Communications Security (**CCS '21**)*
 
 
 

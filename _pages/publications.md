@@ -14,7 +14,7 @@ author_profile: true
 
 2. *"Swarmbug: Debugging Configuration Bugs in Swarm Robotics"* [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, <u>Ali Ahad</u>, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon, *In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (**FSE '21**)*
 
-3. *"Spinner: Automated Dynamic Command Subsystem Perturbation"* [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Meng Wang, Chijung Jung, <u>Ali Ahad</u>, and Yonghwi Kwon, *In Proc. of 28th ACM Conference on Computer and Communications Security (**CCS '21**)*
+3. [*"Spinner: Automated Dynamic Command Subsystem Perturbation"*](/files/spinner-ccs21-extended-ver.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Meng Wang, Chijung Jung, <u>Ali Ahad</u>, and Yonghwi Kwon, *In Proc. of 28th ACM Conference on Computer and Communications Security (**CCS '21**)*
 
 
 

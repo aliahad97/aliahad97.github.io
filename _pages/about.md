@@ -11,9 +11,9 @@ redirect_from:
 Hello! I am Ali Ahad, a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
 
 # Research interests:
-My current research interests include: *Systems and Software security*, *Binary analysis*, *Reverse Engineering*, and *Forensics*.
+My current research interests include *Systems and Software security*, *Binary analysis*, *Reverse Engineering*, and *Forensics*.
 
-I am currently exploring the limiations and security implications of reverse engineering tools for forensic analysis. 
+I am currently exploring the security flaws of reverse engineering tools to make forensic analysis more robust and efficient. 
 
 ----
 

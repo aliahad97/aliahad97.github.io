@@ -10,6 +10,9 @@ redirect_from:
 
 Hello! I am Ali Ahad, a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
 
+> <div align="center">Actively looking for research internships for summer 2023. Please reach out if you have any opportunities for me!</div>
+
+
 # Research interests:
 My current research interests include *Systems and Software security*, *Binary analysis*, *Reverse Engineering*, and *Forensics*.
 

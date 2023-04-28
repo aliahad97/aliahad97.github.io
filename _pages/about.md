@@ -20,6 +20,7 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # Updates:
+- \[04/27/2023]: Paper acceptance in **ASPLOS'24** - *FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*
 - \[11/09/2022]: Paper acceptance in **S&P'23** - *PyFET: Forensically Equivalent Transformation for Python Binary Decompilation*
 - \[11/06/2021]: Paper acceptance in **S&P'22** - *SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms*
 - \[09/11/2021]: Paper acceptance in **NDSS'22** - *Forensic Analysis of Configuration-based Attacks*
@@ -30,15 +31,16 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ---
 
 # Publications:
+1. [*"FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation"*]() [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: <u>Ali Ahad</u>, Gang Wang, Chung Hwan Kim, Suman Jana, Zhiqiang Lin, and Yonghwi Kwon, *In Proc. of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS '24**)*
 
-1. [*"PyFET: Forensically Equivalent Transformation for Python Binary Decompilation"*](/files/pyfet_sp23.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: <u>Ali Ahad</u>, Chijung Jung, Ammar Askar, Doowon Kim, Taesoo Kim, and Yonghwi Kwon, *In Proc. of the 44th IEEE Symposium on Security and Privacy (**S&P '23**)*
+2. [*"PyFET: Forensically Equivalent Transformation for Python Binary Decompilation"*](/files/pyfet_sp23.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: <u>Ali Ahad</u>, Chijung Jung, Ammar Askar, Doowon Kim, Taesoo Kim, and Yonghwi Kwon, *In Proc. of the 44th IEEE Symposium on Security and Privacy (**S&P '23**)*
 
-2. [*"SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms"*](/files/swarmflawfinder_sp22.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, <u>Ali Ahad</u>, Yuseok Jeon, and Yonghwi Kwon, *In Proc. of the 43rd IEEE Symposium on Security and Privacy (**S&P '22**)*
+3. [*"SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms"*](/files/swarmflawfinder_sp22.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, <u>Ali Ahad</u>, Yuseok Jeon, and Yonghwi Kwon, *In Proc. of the 43rd IEEE Symposium on Security and Privacy (**S&P '22**)*
 
-3. [*"Forensic Analysis of Configuration-based Attacks"*](/files/forensic_analysis_of_config_attacks_ndss22.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Muhammad Adil Inam, Wajih Ul Hassan, <u>Ali Ahad</u>, Adam Bates, Rashid Tahir, Tianyin Xu, and Fareed Zaffar, *In Proc. of the 29th Network and Distributed System Security Symposium (**NDSS '22**)*
+4. [*"Forensic Analysis of Configuration-based Attacks"*](/files/forensic_analysis_of_config_attacks_ndss22.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Muhammad Adil Inam, Wajih Ul Hassan, <u>Ali Ahad</u>, Adam Bates, Rashid Tahir, Tianyin Xu, and Fareed Zaffar, *In Proc. of the 29th Network and Distributed System Security Symposium (**NDSS '22**)*
 
-4. [*"Swarmbug: Debugging Configuration Bugs in Swarm Robotics"*](/files/swarmbug-fse21.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, <u>Ali Ahad</u>, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon, *In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (**FSE '21**)*
+5. [*"Swarmbug: Debugging Configuration Bugs in Swarm Robotics"*](/files/swarmbug-fse21.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Chijung Jung, <u>Ali Ahad</u>, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon, *In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (**FSE '21**)*
 
-5. [*"Spinner: Automated Dynamic Command Subsystem Perturbation"*](/files/spinner-ccs21-extended-ver.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Meng Wang, Chijung Jung, <u>Ali Ahad</u>, and Yonghwi Kwon, *In Proc. of 28th ACM Conference on Computer and Communications Security (**CCS '21**)*
+6. [*"Spinner: Automated Dynamic Command Subsystem Perturbation"*](/files/spinner-ccs21-extended-ver.pdf) [[📖 - BibTex](https://aliahad97.github.io/NA.html)]: Meng Wang, Chijung Jung, <u>Ali Ahad</u>, and Yonghwi Kwon, *In Proc. of 28th ACM Conference on Computer and Communications Security (**CCS '21**)*
 
 

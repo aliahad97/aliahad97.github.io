@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ali Ahad, a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
+Hello! I am Ali Ahad, a Ph.D. candidate in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
 
 
 
@@ -20,6 +20,7 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # Updates:
+- \[05/09/2023]: Passed Ph.D. Qualifying Exam
 - \[04/27/2023]: Paper acceptance in **ASPLOS'24** - *FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*
 - \[11/09/2022]: Paper acceptance in **S&P'23** - *PyFET: Forensically Equivalent Transformation for Python Binary Decompilation*
 - \[11/06/2021]: Paper acceptance in **S&P'22** - *SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms*

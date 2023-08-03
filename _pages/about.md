@@ -20,14 +20,14 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # News:
-- July '23: Completed my MS at **UVA**! 🎓
-- May '23: Passed my Ph.D. Qualifying Exam ✅
-- April '23: Paper acceptance in **ASPLOS'24** 🎉🎊 - *FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation* 
-- Nov '22: Paper acceptance in **S&P'23** 🎉🎊 - *PyFET: Forensically Equivalent Transformation for Python Binary Decompilation*
-- Nov '21: Paper acceptance in **S&P'22** 🎉🎊 - *SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms*
-- Sep '21: Paper acceptance in **NDSS'22** 🎉🎊 - *Forensic Analysis of Configuration-based Attacks*
-- May '21: Paper acceptance in **FSE'21** 🎉🎊 - *Swarmbug: Debugging Configuration Bugs in Swarm Robotics*
-- March '21: Paper acceptance in **CCS'21** 🎉🎊 - *Spinner: Automated Dynamic Command Subsystem Perturbation*
+- **July '23**: Completed my MS at *UVA*! 🎓
+- **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
+- **April '23**: *FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation* accepted in **ASPLOS'24** 🥳 
+- **Nov '22**: *PyFET: Forensically Equivalent Transformation for Python Binary Decompilation* accepted in **S&P'23** 🥳 
+- **Nov '21**: *SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms* accepted in **S&P'22** 🥳
+- **Sep '21**: *Forensic Analysis of Configuration-based Attacks* accepted in **NDSS'22** 🥳 
+- **May '21**: *Swarmbug: Debugging Configuration Bugs in Swarm Robotics* accepted in **FSE'21** 🥳
+- **March '21**: *Spinner: Automated Dynamic Command Subsystem Perturbation* accepted in **CCS'21** 🥳
 <!-- - \[08/24/2020]: Started Ph.D. at **UVA** -->
 
 ---

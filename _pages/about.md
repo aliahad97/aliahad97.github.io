@@ -22,12 +22,12 @@ I am currently exploring the security flaws of reverse engineering tools to make
 # News:
 - **July '23**: Completed my MS at *UVA*! 🎓
 - **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
-- **April '23**: *FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation* accepted in [ASPLOS'24](https://www.asplos-conference.org/asplos2024/) 🥳 
-- **Nov '22**: *PyFET: Forensically Equivalent Transformation for Python Binary Decompilation* accepted in [S&P'23](https://www.ieee-security.org/TC/SP2023/) 🥳 
-- **Nov '21**: *SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms* accepted in [S&P'22](https://www.ieee-security.org/TC/SP2022/) 🥳
-- **Sep '21**: *Forensic Analysis of Configuration-based Attacks* accepted in [NDSS'22](https://www.ndss-symposium.org/ndss2022/) 🥳 
-- **May '21**: *Swarmbug: Debugging Configuration Bugs in Swarm Robotics* accepted in [FSE'21](https://2021.esec-fse.org/) 🥳
-- **March '21**: *Spinner: Automated Dynamic Command Subsystem Perturbation* accepted in [CCS'21](https://www.sigsac.org/ccs/CCS2021/) 🥳
+- **April '23**: "*FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*" accepted in [ASPLOS'24](https://www.asplos-conference.org/asplos2024/) 🥳 
+- **Nov '22**: "*PyFET: Forensically Equivalent Transformation for Python Binary Decompilation*" accepted in [S&P'23](https://www.ieee-security.org/TC/SP2023/) 🥳 
+- **Nov '21**: "*SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms*" accepted in [S&P'22](https://www.ieee-security.org/TC/SP2022/) 🥳
+- **Sep '21**: "*Forensic Analysis of Configuration-based Attacks*" accepted in [NDSS'22](https://www.ndss-symposium.org/ndss2022/) 🥳 
+- **May '21**: "*Swarmbug: Debugging Configuration Bugs in Swarm Robotics*" accepted in [FSE'21](https://2021.esec-fse.org/) 🥳
+- **March '21**: "*Spinner: Automated Dynamic Command Subsystem Perturbation*" accepted in [CCS'21](https://www.sigsac.org/ccs/CCS2021/) 🥳
 <!-- - \[08/24/2020]: Started Ph.D. at **UVA** -->
 
 ---

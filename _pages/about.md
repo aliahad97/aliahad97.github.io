@@ -20,6 +20,7 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # News:
+- **Sep '23**: Joining *Nvidia* as "Software Intern, Security" for fall 👨‍💼
 - **July '23**: Completed my MS at *UVA*! 🎓
 - **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
 - **April '23**: "*FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*" accepted in [ASPLOS'24](https://www.asplos-conference.org/asplos2024/) 🥳 

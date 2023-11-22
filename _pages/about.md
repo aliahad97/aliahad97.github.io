@@ -20,6 +20,7 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # News:
+- **Nov '23**: I will be following my [lab](https://yonghwi-kwon.github.io/seed/) and join [*UMD*](https://ece.umd.edu/) in Spring'24 to continue my Ph.D there! 🏃‍♂️‍➡️
 - **Sep '23**: Joined *Nvidia* as "Software Intern, Security" for Fall'23 👨‍💼
 - **July '23**: Completed my MS at *UVA*! 🎓
 - **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳

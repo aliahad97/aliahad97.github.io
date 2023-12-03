@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Ahad"
 title_separator          : "-"
 name                     : &name "Ali Ahad"
-description              : &description "Ph.D. Student @ UVA"
+description              : &description "Ph.D. Student @ UMD"
 url                      : https://aliahad97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aliahad97/aliahad97.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ali Ahad"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student at University of Virginia (UVA)"
-  location         : "Charlottesville, VA"
+  bio              : "Ph.D. student at University of Maryland (UMD)"
+  location         : "College Park, MD"
   employer         :
   pubmed           : 
   googlescholar    :  https://scholar.google.com/citations?user=rcCCxyoAAAAJ #"http://yourfullgooglescholarurl.com"
-  email            :  aliahad@virginia.edu 
+  email            :  aahad@umd.edu 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

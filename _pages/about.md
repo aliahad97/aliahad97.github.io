@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me:"
-excerpt: "Hello! I am Ali Ahad, a Ph.D. student in the Department of Computer Science at the University of Virginia (UVA). I am being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics."
+excerpt: "Hello! I am Ali Ahad, a Ph.D. student in the Electrical and Computer Engineering Department at the University of Maryland (UMD). I am being advised by Prof. Yonghwi Kwon. My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am Ali Ahad, a Ph.D. Student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
+Hello! I am Ali Ahad, a Ph.D. Student in the [Electrical and Computer Engineering](https://ece.umd.edu/) Department at the [University of Maryland (UMD)](https://umd.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
 
 
 

@@ -35,7 +35,7 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ---
 
 # Publications:
-1. [*"FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation"*](): <u>Ali Ahad</u>, Gang Wang, Chung Hwan Kim, Suman Jana, Zhiqiang Lin, and Yonghwi Kwon, *In Proc. of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS '24**)*
+1. [*"FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation"*](/files/freepart_asplos24.pdf): <u>Ali Ahad</u>, Gang Wang, Chung Hwan Kim, Suman Jana, Zhiqiang Lin, and Yonghwi Kwon, *In Proc. of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS '24**)*
 
 2. [*"PyFET: Forensically Equivalent Transformation for Python Binary Decompilation"*](/files/pyfet_sp23.pdf): <u>Ali Ahad</u>, Chijung Jung, Ammar Askar, Doowon Kim, Taesoo Kim, and Yonghwi Kwon, *In Proc. of the 44th IEEE Symposium on Security and Privacy (**S&P '23**)*
 

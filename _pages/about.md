@@ -20,7 +20,8 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # News:
-- **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) and continuing my PhD at [ECE Department](https://ece.umd.edu/)! 📚
+- **Sep '23**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼
+- **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) to continue my PhD at their [ECE Department](https://ece.umd.edu/)! 📚
 - **Nov '23**: I will be following my [lab](https://yonghwi-kwon.github.io/seed/) and join [*UMD*](https://ece.umd.edu/) in Spring'24 to continue my Ph.D there! 🏃‍♂️‍➡️
 - **Sep '23**: Joined *Nvidia* as "Software Intern, Security" for Fall'23 👨‍💼
 - **July '23**: Completed my MS at *UVA*! 🎓

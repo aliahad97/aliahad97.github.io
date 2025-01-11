@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me:"
-excerpt: "Hello! I am Ali Ahad, a Ph.D. student in the Electrical and Computer Engineering Department at the University of Maryland (UMD). I am being advised by Prof. Yonghwi Kwon. My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics."
+excerpt: "Hello! I am Ali Ahad, a Ph.D. Candidate in the Electrical and Computer Engineering Department at the University of Maryland (UMD). I am being advised by Prof. Yonghwi Kwon. My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am Ali Ahad, a Ph.D. Student in the [Electrical and Computer Engineering](https://ece.umd.edu/) Department at the [University of Maryland (UMD)](https://umd.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
+Hello! I am Ali Ahad, a Ph.D. Candidate in the [Electrical and Computer Engineering](https://ece.umd.edu/) Department at the [University of Maryland (UMD)](https://umd.edu/). I am currently being advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
 
 
 
@@ -20,6 +20,7 @@ I am currently exploring the security flaws of reverse engineering tools to make
 ----
 
 # News:
+- **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
 - **May '24**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼
 - **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) to continue my PhD at their [ECE Department](https://ece.umd.edu/)! 📚
 - **Nov '23**: I will be following my [lab](https://yonghwi-kwon.github.io/seed/) and join [*UMD*](https://ece.umd.edu/) in Spring'24 to continue my Ph.D there! 🏃‍♂️‍➡️

@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Lahore University of Management Sciences, 2020
-* Ph.D. in Computer Science, University of Virginia (Present)
+* M.S. in Computer Science, University of Virginia, 2023
+* Ph.D. in ECE, University of Maryland, College Park (Present)
 
 Publications
 ======

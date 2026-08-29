@@ -1,41 +1,52 @@
 {
-	"name": "Minimal Mistakes",
+	"name": "Ali Ahad",
+	"short_name": "Ali Ahad",
+	"description": "Academic homepage of Ali Ahad — software systems security, program analysis, and system forensics.",
+	"start_url": "/",
+	"display": "browser",
+	"background_color": "#1f3a5f",
+	"theme_color": "#1f3a5f",
 	"icons": [
 		{
-			"src": "\/images\/android-chrome-36x36.png?v=M44lzPylqQ",
+			"src": "\/images\/android-chrome-36x36.png?v=aa2026",
 			"sizes": "36x36",
 			"type": "image\/png",
 			"density": 0.75
 		},
 		{
-			"src": "\/images\/android-chrome-48x48.png?v=M44lzPylqQ",
+			"src": "\/images\/android-chrome-48x48.png?v=aa2026",
 			"sizes": "48x48",
 			"type": "image\/png",
 			"density": 1
 		},
 		{
-			"src": "\/images\/android-chrome-72x72.png?v=M44lzPylqQ",
+			"src": "\/images\/android-chrome-72x72.png?v=aa2026",
 			"sizes": "72x72",
 			"type": "image\/png",
 			"density": 1.5
 		},
 		{
-			"src": "\/images\/android-chrome-96x96.png?v=M44lzPylqQ",
+			"src": "\/images\/android-chrome-96x96.png?v=aa2026",
 			"sizes": "96x96",
 			"type": "image\/png",
 			"density": 2
 		},
 		{
-			"src": "\/images\/android-chrome-144x144.png?v=M44lzPylqQ",
+			"src": "\/images\/android-chrome-144x144.png?v=aa2026",
 			"sizes": "144x144",
 			"type": "image\/png",
 			"density": 3
 		},
 		{
-			"src": "\/images\/android-chrome-192x192.png?v=M44lzPylqQ",
+			"src": "\/images\/android-chrome-192x192.png?v=aa2026",
 			"sizes": "192x192",
 			"type": "image\/png",
 			"density": 4
+		},
+		{
+			"src": "\/images\/android-chrome-512x512.png?v=aa2026",
+			"sizes": "512x512",
+			"type": "image\/png"
 		}
 	]
 }

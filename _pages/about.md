@@ -1,23 +1,23 @@
 ---
 permalink: /
-title: "About me:"
-excerpt: "Hello! I am Ali Ahad, a Ph.D. in the Electrical and Computer Engineering. I was advised by Prof. Yonghwi Kwon. My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics."
+title: "Ali Ahad"
+excerpt: "Ali Ahad is a Ph.D. in Electrical and Computer Engineering, advised by Prof. Yonghwi Kwon. His research spans software systems security, program analysis, reverse engineering, and system forensics."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About me:
+
 Hello! I am Ali Ahad, a Ph.D. in [Electrical and Computer Engineering](https://ece.umd.edu/). I was advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
 
-
-
-# Research interests:
+**Research interests.**
 My research interests include *Systems and Software security*, *Program analysis*, *Reverse Engineering*, and *Forensics*.
 
-----
+<!-- ---- -->
 
-# News:
+## News:
 - **Apr '26**: Successfully Defended - Dr. Ali Ahad! ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
 - **May '24**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼
@@ -34,9 +34,8 @@ My research interests include *Systems and Software security*, *Program analysis
 - **Mar '21**: "*Spinner: Automated Dynamic Command Subsystem Perturbation*" accepted in [CCS'21](https://www.sigsac.org/ccs/CCS2021/) 🥳
 <!-- - \[08/24/2020]: Started Ph.D. at **UVA** -->
 
----
 
-# Publications:
+## Publications:
 1. [*"FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation"*](/files/freepart_asplos24.pdf): <u>Ali Ahad</u>, Gang Wang, Chung Hwan Kim, Suman Jana, Zhiqiang Lin, and Yonghwi Kwon, *In Proc. of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS '24**)*
 
 2. [*"PyFET: Forensically Equivalent Transformation for Python Binary Decompilation"*](/files/pyfet_sp23.pdf): <u>Ali Ahad</u>, Chijung Jung, Ammar Askar, Doowon Kim, Taesoo Kim, and Yonghwi Kwon, *In Proc. of the 44th IEEE Symposium on Security and Privacy (**S&P '23**)*

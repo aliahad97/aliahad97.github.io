@@ -4,8 +4,8 @@
 	"description": "Academic homepage of Ali Ahad — software systems security, program analysis, and system forensics.",
 	"start_url": "/",
 	"display": "browser",
-	"background_color": "#1f3a5f",
-	"theme_color": "#1f3a5f",
+	"background_color": "#000000",
+	"theme_color": "#000000",
 	"icons": [
 		{
 			"src": "\/images\/android-chrome-36x36.png?v=aa2026",

@@ -14,7 +14,7 @@ redirect_from:
 
 ## About me:
 
-Hello! I am Ali Ahad, a Software Engineer at [Google](https://google.com), working on Security for Emergent AI Platforms. I completed my Ph.D. in [Electrical and Computer Engineering](https://ece.umd.edu/) at the University of Maryland, advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). Over the course of my doctoral and industry research — including work at NVIDIA — I designed LLM-driven binary analysis tools, partition-based isolation frameworks, and platform attestation architectures to harden large-scale systems.
+Hello! I am Ali Ahad, a Software Engineer at [Google](https://google.com), working on Security for Emergent AI Platforms. I completed my Ph.D. in [Electrical and Computer Engineering](https://ece.umd.edu/) at the University of Maryland, advised by Professor [Yonghwi Kwon](https://yonghwi-kwon.github.io/). Over the course of my doctoral and industry research — including work at NVIDIA — I designed LLM-driven binary analysis tools, partition-based isolation frameworks, and platform attestation architectures to harden large-scale systems.
 
 **Research interests.**
 My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis & Reverse Engineering*, *Systems & Software Security*, and *Decompilation & Binary Hardening*.
@@ -22,13 +22,13 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 <!-- ---- -->
 
 ## News:
-- **Aug '26**: Joined *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms <i class="fab fa-google" aria-hidden="true"></i>👨🏽‍💼
+- **Aug '26**: Joined [Google](https://google.com) as a Software Engineer, working on Security for Emergent AI Platforms <i class="fab fa-google" aria-hidden="true"></i>👨🏽‍💼
 - **Apr '26**: Successfully Defended — Dr. Ali Ahad! Ph.D. ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
-- **May '24**: Joined *[NVIDIA](https://www.nvidia.com/)* as "System Software Intern, Data Center System Security" for Summer'24 👨🏽‍💼
-- **Jan '24**: Joined [*UMD*](https://ece.umd.edu/) to continue my Ph.D. with my [lab](https://yonghwi-kwon.github.io/seed/)! 🏃‍♂️‍➡️📚
-- **Sep '23**: Joined *[NVIDIA](https://www.nvidia.com/)* as "Software Intern, Security" for Fall'23 👨🏽‍💼
-- **Jul '23**: Completed my MS at *[UVA](https://engineering.virginia.edu/department/computer-science)*! 🎓
+- **May '24**: Joined [NVIDIA](https://www.nvidia.com/) as "System Software Intern, Data Center System Security" for Summer'24 👨🏽‍💼
+- **Jan '24**: Joined [UMD](https://ece.umd.edu/) to continue my Ph.D. with my [lab](https://yonghwi-kwon.github.io/seed/)! 🏃‍♂️‍➡️📚
+- **Sep '23**: Joined [NVIDIA](https://www.nvidia.com/) as "Software Intern, Security" for Fall'23 👨🏽‍💼
+- **Jul '23**: Completed my MS at [UVA](https://engineering.virginia.edu/department/computer-science)! 🎓
 - **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
 - **Apr '23**: "*FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*" accepted in [ASPLOS'24](https://www.asplos-conference.org/asplos2024/) 🥳 
 - **Nov '22**: "*PyFET: Forensically Equivalent Transformation for Python Binary Decompilation*" accepted in [S&P'23](https://www.ieee-security.org/TC/SP2023/) 🥳 
@@ -36,7 +36,7 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 - **Sep '21**: "*Forensic Analysis of Configuration-based Attacks*" accepted in [NDSS'22](https://www.ndss-symposium.org/ndss2022/) 🥳 
 - **May '21**: "*Swarmbug: Debugging Configuration Bugs in Swarm Robotics*" accepted in [FSE'21](https://2021.esec-fse.org/) 🥳
 - **Mar '21**: "*Spinner: Automated Dynamic Command Subsystem Perturbation*" accepted in [CCS'21](https://www.sigsac.org/ccs/CCS2021/) 🥳
-- **Aug '20**: Joined [*UVA*](https://engineering.virginia.edu/department/computer-science) to start my Ph.D. in CS! 📚
+- **Aug '20**: Joined [UVA](https://engineering.virginia.edu/department/computer-science) to start my Ph.D. in CS! 📚
 <!-- - \[08/24/2020]: Started Ph.D. at **UVA** -->
 
 

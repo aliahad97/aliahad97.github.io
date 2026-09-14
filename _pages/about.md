@@ -22,13 +22,13 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 <!-- ---- -->
 
 ## News:
-- **Aug '26**: Joined *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms 👨‍💼<i class="fab fa-google" aria-hidden="true"></i>
+- **Aug '26**: Joined *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms <i class="fab fa-google" aria-hidden="true"></i>👨🏽‍💼
 - **Apr '26**: Successfully Defended — Dr. Ali Ahad! Ph.D. ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
-- **May '24**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼
-- **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) to continue my PhD at their [ECE Department](https://ece.umd.edu/)! 📚
-- **Nov '23**: I will be following my [lab](https://yonghwi-kwon.github.io/seed/) and join [*UMD*](https://ece.umd.edu/) in Spring'24 to continue my Ph.D there! 🏃‍♂️‍➡️
-- **Sep '23**: Joined *Nvidia* as "Software Intern, Security" for Fall'23 👨‍💼
+- **May '24**: Joined *[NVIDIA](https://www.nvidia.com/)* as "System Software Intern, Data Center System Security" for Summer'24 👨🏽‍💼
+- **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) to continue my Ph.D. at their [ECE Department](https://ece.umd.edu/)! 📚
+- **Nov '23**: I will be following my [lab](https://yonghwi-kwon.github.io/seed/) and join [*UMD*](https://ece.umd.edu/) in Spring'24 to continue my Ph.D. there! 🏃‍♂️‍➡️
+- **Sep '23**: Joined *[NVIDIA](https://www.nvidia.com/)* as "Software Intern, Security" for Fall'23 👨🏽‍💼
 - **Jul '23**: Completed my MS at *UVA*! 🎓
 - **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
 - **Apr '23**: "*FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*" accepted in [ASPLOS'24](https://www.asplos-conference.org/asplos2024/) 🥳 
@@ -37,7 +37,7 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 - **Sep '21**: "*Forensic Analysis of Configuration-based Attacks*" accepted in [NDSS'22](https://www.ndss-symposium.org/ndss2022/) 🥳 
 - **May '21**: "*Swarmbug: Debugging Configuration Bugs in Swarm Robotics*" accepted in [FSE'21](https://2021.esec-fse.org/) 🥳
 - **Mar '21**: "*Spinner: Automated Dynamic Command Subsystem Perturbation*" accepted in [CCS'21](https://www.sigsac.org/ccs/CCS2021/) 🥳
-- **Aug '20**: Joined [*UVA*](https://engineering.virginia.edu/department/computer-science) to start my PhD in CS! 📚
+- **Aug '20**: Joined [*UVA*](https://engineering.virginia.edu/department/computer-science) to start my Ph.D. in CS! 📚
 <!-- - \[08/24/2020]: Started Ph.D. at **UVA** -->
 
 

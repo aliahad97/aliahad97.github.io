@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ali Ahad"
+strip_title: true
 excerpt: "Ali Ahad is a Software Engineer at Google focusing on Security for Emergent AI Platforms. He completed his Ph.D. in Electrical and Computer Engineering at the University of Maryland, advised by Prof. Yonghwi Kwon, with research spanning software systems security, program analysis, reverse engineering, and system forensics."
 header:
   image: cover.png

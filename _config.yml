@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Ahad"
 title_separator          : "-"
 name                     : &name "Ali Ahad"
-description              : &description "Ali Ahad is a Ph.D. in Electrical and Computer Engineering researching software systems security, program analysis, reverse engineering, and system forensics."
+description              : &description "Ali Ahad is a Software Engineer at Google working on Security for Emergent AI Platforms. He holds a Ph.D. in Electrical and Computer Engineering from the University of Maryland, with research spanning software systems security, program analysis, reverse engineering, and system forensics."
 url                      : https://aliahad97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aliahad97/aliahad97.github.io"
@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Ali Ahad"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. in ECE"
+  bio              : "Software Engineer"
   location         : "San Francisco Bay Area, CA"
-  employer         :
+  employer         : "Google"
   pubmed           : 
   googlescholar    :  https://scholar.google.com/citations?user=rcCCxyoAAAAJ #"http://yourfullgooglescholarurl.com"
   email            :   ali.ahad.careers@gmail.com 

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ali Ahad"
-excerpt: "Ali Ahad is a Ph.D. in Electrical and Computer Engineering, advised by Prof. Yonghwi Kwon. His research spans software systems security, program analysis, reverse engineering, and system forensics."
+excerpt: "Ali Ahad is a Software Engineer at Google focusing on Security for Emergent AI Platforms. He completed his Ph.D. in Electrical and Computer Engineering at the University of Maryland, advised by Prof. Yonghwi Kwon, with research spanning software systems security, program analysis, reverse engineering, and system forensics."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,15 +10,16 @@ redirect_from:
 
 ## About me:
 
-Hello! I am Ali Ahad, a Ph.D. in [Electrical and Computer Engineering](https://ece.umd.edu/). I was advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). My primary research focus lies in the broad spectrum of Software Systems Security and System Forensics. 
+Hello! I am Ali Ahad, a Software Engineer at [Google](https://google.com), working on Security for Emergent AI Platforms. I completed my Ph.D. in [Electrical and Computer Engineering](https://ece.umd.edu/) at the University of Maryland, advised by Prof. [Yonghwi Kwon](https://yonghwi-kwon.github.io/). Over the course of my doctoral and industry research — including work at NVIDIA — I designed LLM-driven binary analysis tools, partition-based isolation frameworks, and platform attestation architectures to harden large-scale systems.
 
 **Research interests.**
-My research interests include *Systems and Software security*, *Program analysis*, *Reverse Engineering*, and *Forensics*.
+My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis & Reverse Engineering*, *Systems & Software Security*, and *Decompilation & Binary Hardening*.
 
 <!-- ---- -->
 
 ## News:
-- **Apr '26**: Successfully Defended - Dr. Ali Ahad! ✅🎓
+- **Aug '26**: Joined *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms 👨‍💼
+- **Apr '26**: Successfully Defended — Dr. Ali Ahad! Ph.D. ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
 - **May '24**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼
 - **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) to continue my PhD at their [ECE Department](https://ece.umd.edu/)! 📚

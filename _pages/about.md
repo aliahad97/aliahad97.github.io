@@ -18,7 +18,7 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 <!-- ---- -->
 
 ## News:
-- **Aug '26**: Joined *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms 👨‍💼
+- **Aug '26**: Joined <i class="fab fa-google" aria-hidden="true"></i> *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms 👨‍💼
 - **Apr '26**: Successfully Defended — Dr. Ali Ahad! Ph.D. ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
 - **May '24**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼

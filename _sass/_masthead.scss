@@ -12,6 +12,7 @@
   z-index: 20;
 
   &__inner-wrap {
+    position: relative;
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
@@ -28,6 +29,20 @@
     a {
       text-decoration: none;
     }
+  }
+}
+
+#theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  z-index: 15;
+  transform: translateY(-50%);
+  font-size: 1.1rem;
+  color: var(--main-text-color);
+
+  &:hover {
+    color: $masthead-link-color-hover;
   }
 }
 

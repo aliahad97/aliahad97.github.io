@@ -1,20 +1,29 @@
-let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)"); 
+let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)");
 let theme = sessionStorage.getItem('theme');
 
+const SUN_ICON = '<i class="fas fa-sun" aria-hidden="true"></i>';
+const MOON_ICON = '<i class="fas fa-moon" aria-hidden="true"></i>';
+
+function setToggleIcon(nextThemeIsLight) {
+	let toggle = document.getElementById("theme-toggle");
+	toggle.innerHTML = nextThemeIsLight ? SUN_ICON : MOON_ICON;
+	toggle.setAttribute('aria-label', nextThemeIsLight ? 'Switch to light mode' : 'Switch to dark mode');
+}
+
 if (systemInitiatedDark.matches) {
-	document.getElementById("theme-toggle").innerHTML = "Light";
+	setToggleIcon(true);
 } else {
-	document.getElementById("theme-toggle").innerHTML = "Dark";
+	setToggleIcon(false);
 }
 
 function prefersColorTest(systemInitiatedDark) {
   if (systemInitiatedDark.matches) {
-  	document.documentElement.setAttribute('data-theme', 'dark');		
-   	document.getElementById("theme-toggle").innerHTML = "Light";
+  	document.documentElement.setAttribute('data-theme', 'dark');
+   	setToggleIcon(true);
    	sessionStorage.setItem('theme', '');
   } else {
   	document.documentElement.setAttribute('data-theme', 'light');
-    document.getElementById("theme-toggle").innerHTML = "Dark";
+    setToggleIcon(false);
     sessionStorage.setItem('theme', '');
   }
 }
@@ -26,30 +35,30 @@ function modeSwitcher() {
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
-		document.getElementById("theme-toggle").innerHTML = "Dark";
+		setToggleIcon(false);
 	}	else if (theme === "light") {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
-		document.getElementById("theme-toggle").innerHTML = "Light";
-	} else if (systemInitiatedDark.matches) {	
+		setToggleIcon(true);
+	} else if (systemInitiatedDark.matches) {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
 		//let theme = sessionStorage.getItem('theme');
 		//console.log("this was triggered");
-		document.getElementById("theme-toggle").innerHTML = "Dark";
+		setToggleIcon(false);
 	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
-		document.getElementById("theme-toggle").innerHTML = "Light";
+		setToggleIcon(true);
 	}
 }
 
 if (theme === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
 	sessionStorage.setItem('theme', 'dark');
-	document.getElementById("theme-toggle").innerHTML = "Light";
+	setToggleIcon(true);
 } else if (theme === "light") {
 	document.documentElement.setAttribute('data-theme', 'light');
 	sessionStorage.setItem('theme', 'light');
-	document.getElementById("theme-toggle").innerHTML = "Dark";
+	setToggleIcon(false);
 }

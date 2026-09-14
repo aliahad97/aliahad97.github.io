@@ -2,6 +2,10 @@
 permalink: /
 title: "Ali Ahad"
 excerpt: "Ali Ahad is a Software Engineer at Google focusing on Security for Emergent AI Platforms. He completed his Ph.D. in Electrical and Computer Engineering at the University of Maryland, advised by Prof. Yonghwi Kwon, with research spanning software systems security, program analysis, reverse engineering, and system forensics."
+header:
+  image: cover.png
+  alt: "Career timeline: LUMS, UVA, NVIDIA internships, Ph.D. at University of Maryland, now Software Engineer at Google, securing emergent AI platforms"
+og_image: og-card.png
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +22,7 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 <!-- ---- -->
 
 ## News:
-- **Aug '26**: Joined <i class="fab fa-google" aria-hidden="true"></i> *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms 👨‍💼
+- **Aug '26**: Joined *[Google](https://google.com)* as a Software Engineer, working on Security for Emergent AI Platforms 👨‍💼<i class="fab fa-google" aria-hidden="true"></i>
 - **Apr '26**: Successfully Defended — Dr. Ali Ahad! Ph.D. ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
 - **May '24**: Joined *Nvidia* as "System Software Intern, Data Center System Security" for Summer'24 👨‍💼

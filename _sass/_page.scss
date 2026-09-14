@@ -164,6 +164,9 @@
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+  border-radius: $border-radius;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
 }
 
 .page__hero-caption {

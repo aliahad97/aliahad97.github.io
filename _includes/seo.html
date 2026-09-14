@@ -30,7 +30,7 @@
 {% endif %}
 
 {% comment %} Resolve a single absolute image URL for og:image / twitter:image. {% endcomment %}
-{% assign seo_image = page.header.image | default: page.header.overlay_image | default: site.og_image %}
+{% assign seo_image = page.og_image | default: page.header.image | default: page.header.overlay_image | default: site.og_image %}
 {% if seo_image %}
   {% unless seo_image contains "://" %}
     {% assign seo_image = seo_image | prepend: "/images/" | prepend: seo_url %}

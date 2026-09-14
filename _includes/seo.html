@@ -35,6 +35,9 @@
   {% unless seo_image contains "://" %}
     {% assign seo_image = seo_image | prepend: "/images/" | prepend: seo_url %}
   {% endunless %}
+  {% if site.og_image_version %}
+    {% assign seo_image = seo_image | append: "?v=" | append: site.og_image_version %}
+  {% endif %}
 {% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}

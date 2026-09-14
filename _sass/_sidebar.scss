@@ -138,6 +138,27 @@
   }
 }
 
+.author__contact-primary {
+  display: block;
+  margin: 0 0 0.75em;
+  padding: 0;
+  list-style-type: none;
+  font-family: $sans-serif;
+
+  li {
+    white-space: nowrap;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;

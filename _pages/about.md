@@ -26,10 +26,9 @@ My core focus areas are *Security for Emergent AI Platforms*, *Program Analysis 
 - **Apr '26**: Successfully Defended — Dr. Ali Ahad! Ph.D. ✅🎓
 - **Jan '25**: Passed my Ph.D. Proposal. Now a Ph.D. Candidate! ✅⏳
 - **May '24**: Joined *[NVIDIA](https://www.nvidia.com/)* as "System Software Intern, Data Center System Security" for Summer'24 👨🏽‍💼
-- **Jan '24**: Enrolled at [*UMD*](https://ece.umd.edu/) to continue my Ph.D. at their [ECE Department](https://ece.umd.edu/)! 📚
-- **Nov '23**: I will be following my [lab](https://yonghwi-kwon.github.io/seed/) and join [*UMD*](https://ece.umd.edu/) in Spring'24 to continue my Ph.D. there! 🏃‍♂️‍➡️
+- **Jan '24**: Joined [*UMD*](https://ece.umd.edu/) to continue my Ph.D. with my [lab](https://yonghwi-kwon.github.io/seed/)! 🏃‍♂️‍➡️📚
 - **Sep '23**: Joined *[NVIDIA](https://www.nvidia.com/)* as "Software Intern, Security" for Fall'23 👨🏽‍💼
-- **Jul '23**: Completed my MS at *UVA*! 🎓
+- **Jul '23**: Completed my MS at *[UVA](https://engineering.virginia.edu/department/computer-science)*! 🎓
 - **May '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
 - **Apr '23**: "*FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation*" accepted in [ASPLOS'24](https://www.asplos-conference.org/asplos2024/) 🥳 
 - **Nov '22**: "*PyFET: Forensically Equivalent Transformation for Python Binary Decompilation*" accepted in [S&P'23](https://www.ieee-security.org/TC/SP2023/) 🥳 
